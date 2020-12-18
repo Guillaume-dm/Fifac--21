@@ -2,7 +2,7 @@
 Good game. Fifa C# est un logiciel, développé en procédural et en ligne de commande, simulant partiellement le mode carrière entraineur de Fifa. 
 
 1- EQUIPES DISPONIBLES
-    A- LIGUE 1 CONFORAMA 
+    A- LIGUE 1 CONFORAMA </br>
        🟡 ANGERS SCO                          // ANGERS
        🟡 GIRONDIENS DE BORDEAUX              // BORDEAUX
        🟡 SB 29                               // BREST
