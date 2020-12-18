@@ -1,5 +1,5 @@
 # Fifac-21
-Good game. Fifa C# est un logiciel, développé en procédural et en ligne de commande, simulant partiellement le mode carrière entraineur de Fifa. </br>
+⚽ Good game. Fifa C# est un logiciel, développé en procédural et en ligne de commande, simulant partiellement le mode carrière entraineur de Fifa. </br>
 
 0- LANGUAGES </br>
     100% 🇫🇷 </br>
@@ -24,3 +24,12 @@ Good game. Fifa C# est un logiciel, développé en procédural et en ligne de co
        🟡 A.S.S.E                             // SAINT-ETIENNE </br>
        🟡 RACING CLUB DE STRASBOURG           // STRASBOURG </br>
        🟡 TFC                                 // TOULOUSE </br>
+    B- DOMINO'S LIGUE 2 </br>
+       🔵 AC AJACCIO                          // AJACCIO </br>
+       🔵 AJ AUXERRE                          // AUXERRE </br>
+       🔵 CLERMONT FOOT 63                    // CLERMONT-FERRAND </br>
+       🔵 GF 38                               // GREBOBLE </br>
+       🔵 EAG                                 // GUIMPGAMP </br>
+       🔵 HAC                                 // LE HAVRE </br>
+       🔵 FC LORIENT                          // LORIENT </br>
+       🔵 ASNL                                // NANCY </br>
