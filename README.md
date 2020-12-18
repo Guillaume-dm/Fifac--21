@@ -1,23 +1,26 @@
 # Fifac-21
-Good game. Fifa C# est un logiciel, développé en procédural et en ligne de commande, simulant partiellement le mode carrière entraineur de Fifa. 
+Good game. Fifa C# est un logiciel, développé en procédural et en ligne de commande, simulant partiellement le mode carrière entraineur de Fifa. </br>
 
-1- EQUIPES DISPONIBLES
+0- LANGUAGES </br>
+    100% 🇨🇵 </br>
+
+1- EQUIPES DISPONIBLES </br>
     A- LIGUE 1 CONFORAMA </br>
-       🟡 ANGERS SCO                          // ANGERS
-       🟡 GIRONDIENS DE BORDEAUX              // BORDEAUX
-       🟡 SB 29                               // BREST
-       🟡 DFC0                                // DIJON
-       🟡 LOSC                                // LILLE
-       🟡 OL                                  // LYON
-       🟡 OM                                  // MARSEILLE
-       🟡 FC METZ                             // METZ
-       🟡 AS MONACO FC                        // MONACO
-                        Console.WriteLine("10- FC NANTES");
-                        Console.WriteLine("11- OGC NICE");
-                        Console.WriteLine("12- NIMES OLYMPIQUES");
-                        Console.WriteLine("13- PARIS SAINT-GERMAIN");
-                        Console.WriteLine("14- SdR");
-                        Console.WriteLine("15- STADE RENNAIS FC");
-                        Console.WriteLine("16- A.S.S.E");
-                        Console.WriteLine("17- RACING CLUB DE STRASBOURG");
-                        Console.WriteLine("18- TFC");
+       🟡 ANGERS SCO                          // ANGERS </br>
+       🟡 GIRONDIENS DE BORDEAUX              // BORDEAUX </br>
+       🟡 SB 29                               // BREST </br>
+       🟡 DFC0                                // DIJON </br>
+       🟡 LOSC                                // LILLE </br>
+       🟡 OL                                  // LYON </br>
+       🟡 OM                                  // MARSEILLE </br>
+       🟡 FC METZ                             // METZ </br>
+       🟡 AS MONACO FC                        // MONACO </br>
+       🟡 FC NANTES                           // NANTES </br>
+       🟡 OGC NICE                            // NICE </br>
+       🟡 NIMES OLYMPIQUES                    // NIMES </br>
+       🟡 PARIS SAINT-GERMAIN                 // PARIS </br>
+       🟡 SdR                                 // REIMS </br>
+       🟡 STADE RENNAIS FC"                   // RENNES </br>
+       🟡 A.S.S.E                             // SAINT-ETIENNE </br>
+       🟡 RACING CLUB DE STRASBOURG           // STRASBOURG </br>
+       🟡 TFC                                 // TOULOUSE </br>
