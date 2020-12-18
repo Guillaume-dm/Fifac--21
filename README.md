@@ -20,7 +20,7 @@ Good game. Fifa C# est un logiciel, développé en procédural et en ligne de co
        🟡 NIMES OLYMPIQUES                    // NIMES </br>
        🟡 PARIS SAINT-GERMAIN                 // PARIS </br>
        🟡 SdR                                 // REIMS </br>
-       🟡 STADE RENNAIS FC"                   // RENNES </br>
+       🟡 STADE RENNAIS FC                    // RENNES </br>
        🟡 A.S.S.E                             // SAINT-ETIENNE </br>
        🟡 RACING CLUB DE STRASBOURG           // STRASBOURG </br>
        🟡 TFC                                 // TOULOUSE </br>
