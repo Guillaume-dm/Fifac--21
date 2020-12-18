@@ -2,7 +2,7 @@
 Good game. Fifa C# est un logiciel, développé en procédural et en ligne de commande, simulant partiellement le mode carrière entraineur de Fifa. </br>
 
 0- LANGUAGES </br>
-    100% 🇨🇵 </br>
+    100% 🇨🇵 🇫🇷 </br>
 
 1- EQUIPES DISPONIBLES </br>
     A- LIGUE 1 CONFORAMA </br>
