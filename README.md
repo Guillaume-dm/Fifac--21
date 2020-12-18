@@ -15,14 +15,14 @@
        <pre> 🟡 OL                                  // LYON 🆚 </pre>
        <pre> 🟡 OM                                  // MARSEILLE </pre>
        <pre> 🟡 FC METZ                             // METZ </pre>
-       <pre> 🟡 AS MONACO FC                        // MONACO 🆚 </pre>
+       <pre> 🟡 AS MONACO FC                        // MONACO 🆚🔃 </pre>
        <pre> 🟡 FC NANTES                           // NANTES </pre>
        <pre> 🟡 OGC NICE                            // NICE </pre>
        <pre> 🟡 NIMES OLYMPIQUES                    // NIMES </pre>
        <pre> 🟡 PARIS SAINT-GERMAIN                 // PARIS </pre>
        <pre> 🟡 SdR                                 // REIMS </pre>
        <pre> 🟡 STADE RENNAIS FC                    // RENNES </pre>
-       <pre> 🟡 A.S.S.E                             // SAINT-ETIENNE 🆚 </pre>
+       <pre> 🟡 A.S.S.E                             // SAINT-ETIENNE 🆚🔃 </pre>
        <pre> 🟡 RACING CLUB DE STRASBOURG           // STRASBOURG </pre>
        <pre> 🟡 TFC                                 // TOULOUSE </pre>
         </br>
@@ -37,7 +37,14 @@
        <pre> 🔵 ASNL                                // NANCY </pre>
 </br>
 
-2- STADES </br>
+2- COMPETITIONS DISPONIBLES
+     <pre> 🏆 LIGUE 1 CONFORAMA </pre>
+     <pre> 🏆 DOMINO'S LIGUE 2 </pre>
+     <pre> 🏆 TROPHEE DES CHAMPIONS </pre>
+     <pre> 🏆 COUPE DE FRANCE </pre>
+     <pre> 🏆 COUPE DE LA LIGUE </pre>
+
+3- STADES </br>
     <pre> 🏟️ ENVOL-STADIUM </pre>
     <pre> 🏟️ GROUPAMA STADIUM </pre>
     <pre> 🏟️ STADE DE LA MOISSON </pre>
