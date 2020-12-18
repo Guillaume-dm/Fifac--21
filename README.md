@@ -2,7 +2,7 @@
 ⚽ Good game. Fifa C# est un logiciel, développé en procédural et en ligne de commande, simulant partiellement le mode carrière entraineur de Fifa. </br>
 
 0- LANGUAGES </br>
-    100% 🇫🇷 </br>
+    💬 100% 🇫🇷 </br>
 
 1- EQUIPES DISPONIBLES </br>
     A- LIGUE 1 CONFORAMA </br>
@@ -16,7 +16,7 @@
        🟡 FC METZ                             // METZ </br>
        🟡 AS MONACO FC                        // MONACO </br>
        🟡 FC NANTES                           // NANTES </br>
-       🟡 OGC NICE                            // NICE </br>
+       🟡 OGC NICE                            // NICE </br> 
        🟡 NIMES OLYMPIQUES                    // NIMES </br>
        🟡 PARIS SAINT-GERMAIN                 // PARIS </br>
        🟡 SdR                                 // REIMS </br>
@@ -24,6 +24,7 @@
        🟡 A.S.S.E                             // SAINT-ETIENNE </br>
        🟡 RACING CLUB DE STRASBOURG           // STRASBOURG </br>
        🟡 TFC                                 // TOULOUSE </br>
+        </br>
     B- DOMINO'S LIGUE 2 </br>
        🔵 AC AJACCIO                          // AJACCIO </br>
        🔵 AJ AUXERRE                          // AUXERRE </br>
@@ -33,3 +34,4 @@
        🔵 HAC                                 // LE HAVRE </br>
        🔵 FC LORIENT                          // LORIENT </br>
        🔵 ASNL                                // NANCY </br>
+</br>
